@@ -1,0 +1,12 @@
+{
+  "name": "wwdc-syntax-style",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "private": true,
+  "description": "A WWDC 2016 style theme",
+  "repository": "https://github.com/ky0ncheng/wwdc-syntax-style",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.39.0"
+  }
+}
